@@ -48,7 +48,7 @@ make install
 ### Manual Installation
 ```bash
 go build main.go -o gophersay
-```bash
+```
 To install:
 ```
 sudo cp gophersay /usr/local/bin/gophersay
