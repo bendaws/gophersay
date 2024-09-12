@@ -1,5 +1,8 @@
-// gophersay
-// (C) Copyright 2024 Ben Daws
+// Gophersay v1.0.0
+// (C) Copyright 2024 Ben Daws.
+// Licensed under GNU General Public License V3
+
+// Thank you Renee French for the Gopher art!
 
 package gophersay_cli
 
